@@ -1,0 +1,98 @@
+.body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(190, 202, 173);
+    padding-left: 0px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    background-color: rgb(190, 202, 173);
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.contact_btn{
+    display: flex;
+    justify-self: flex-end;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.logo{
+    width: 150px;
+    height: 80px;
+    margin-right: 25px;
+}
+.menu{
+    margin-right: 20px;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+.menu_pages{
+    text-decoration: none;
+    color: black;
+}
+.menu_pages:hover{
+    color: #73b02f;
+}
+.Carbon{
+    margin-right: 550px;
+    color: black;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+}
+.button{
+    background-color: #74b02f;
+    color: white;
+    border-width: 0px;
+    width: 120px;
+    height: 50px;
+
+    
+}
+.button:hover{
+    opacity: 0.8;
+}
+.button:active{
+    opacity: 0.5;
+}
+.textbox{
+    width: 600px;
+    height: 50px;
+}
+
+.textbox-div{
+    display: flex;
+    margin-top: 50px;
+    margin-right: 120px;
+    transform: translate(-75px,0px);
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(161, 178, 136);
+    align-items: center;
+    width: 700px;
+    margin-left: 400px;
+    border-radius: 15px;
+    height: 900px;
+}
+.input-p{
+    transform: translate(250px,-60px);
+    width: 250px;
+    font-family: 'Quicksand',sans-serif;
+}
+.checkbox-p{
+    font-family: 'Quicksand', sans-serif;
+}
+.btn-div{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.btn{
+    background-color: #74b02f;
+    color: white;
+    border-width: 0px;
+    width: 120px;
+    height: 50px;
+}
